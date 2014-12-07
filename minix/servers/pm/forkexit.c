@@ -15,7 +15,7 @@
  *   exit_restart:	continue exiting a process after VFS has replied
  *   do_waitpid:	perform the WAITPID system call
  *   wait_test:		check whether a parent is waiting for a child
- */
+  */
 
 #include "pm.h"
 #include <sys/wait.h>
